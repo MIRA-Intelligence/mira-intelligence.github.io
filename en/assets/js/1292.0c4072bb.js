@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmira_docs=self.webpackChunkmira_docs||[]).push([[1292],{1292:(e,c,r)=>{r.d(c,{createArchitectureServices:()=>s.m});var s=r(3484);r(7512)}}]);
